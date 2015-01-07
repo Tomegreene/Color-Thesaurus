@@ -5,46 +5,17 @@
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.4/angular.min.js"></script>
 	<script type="text/javascript" src="js/colorThesaurus.js"></script>
 </head>
-<body ng-app="app" ng-controller='ColorCtrl as color'>
+<body ng-app="app" ng-controller="ColorCtrl as color">
+	<select ng-model="currentColor" ng-options="color.name for color in colors" ng-change="updateColors()"></select>
+	<br><br>
 	<table>
-		<tr ng-repeat='row in rows'>
-			<td bgcolor={{cell.value}} ng-repeat='cell in row'>
-				<div>{{cell.name}}</div><div>{{cell.value}}</div>
+		<tr ng-repeat="row in rows">
+			<td bgcolor={{cell.value}} ng-repeat="cell in row">
+				<font color={{currentColor.textColor}}>
+					<div>{{cell.name}}</div><div>{{cell.value}}</div>
+				</font>
 			</td>
 		</tr>
 	</table>
-<br><br><br><br><br><br>
-    <table>
-        <tr id='row'>
-            <td class='white'><div>White</div><div>#FFFEFC</div></td>
-            <td class='pearl'><div>Pearl</div><div>#FBFCF7</div></td>
-            <td class='alabaster'><div>Alabaster</div><div>#FEFAF1</div></td>
-            <td class='snow'><div>Snow</div><div>#F5FEFD</div></td>
-        </tr>
-        <tr>
-            <td class='ivory'><div>Ivory</div><div>#FDF6E4</div></td>
-            <td class='cream'><div>Cream</div><div>#FFFADA</div></td>
-            <td class='eggshell'><div>Egg Shell</div><div>#FEF9E3</div></td>
-            <td class='cotton'><div>Cotton</div><div>#FBFCF7</div></td>
-        </tr>
-        <tr>
-            <td class='chiffon'><div>Chiffon</div><div>#FAFAF2</div></td>
-            <td class='salt'><div>Salt</div><div>#F7EFEC</div></td>
-            <td class='lace'><div>Lace</div><div>#FAF3EB</div></td>
-            <td class='coconut'><div>Coconut</div><div>#FFF1E6</div></td>
-        </tr>
-        <tr>
-            <td class='linen'><div>Linen</div><div>#F2EAD3</div></td>
-            <td class='bone'><div>Bone</div><div>#E7DFCC</div></td>
-            <td class='daisy'><div>Daisy</div><div>#FFFFFF</div></td>
-            <td class='powder'><div>Powder</div><div>#FBFCF7</div></td>
-        </tr>
-        <tr>
-            <td class='frost'><div>Frost</div><div>#ECFCFC</div></td>
-            <td class='porcelain'><div>Porcelain</div><div>#FFFEFC</div></td>
-            <td class='parchment'><div>Parchment</div><div>#FBF5DF</div></td>
-            <td class='rice'><div>Rice</div><div>#FAF5EF</div></td>
-        </tr>
-    </table>
 </body>
 </html>
