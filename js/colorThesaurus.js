@@ -3,7 +3,9 @@ var app = angular.module('app',[]);
 app.controller('ColorCtrl', function($scope) {
 	$scope.colors = [
 		{ name:'White', textColor:'#000000' },
-		{ name:'Tan', textColor:'#000000' }
+		{ name:'Tan', textColor:'#000000' },
+		{ name:'Yellow', textColor:'#000000' },
+		{ name: 'Red', textColor:'#000000' }
 	];
 
 	$scope.currentColor = $scope.colors[0];
@@ -11,8 +13,12 @@ app.controller('ColorCtrl', function($scope) {
 	$scope.updateColors = function() {
 		if($scope.currentColor.name === 'White') {
 			$scope.rows = $scope.white;
-		} else {
+		} else if($scope.currentColor.name === 'Tan'){
 			$scope.rows = $scope.tan;
+		} else if($scope.currentColor.name === 'Yellow'){
+			$scope.rows = $scope.yellow;
+		} else {
+			$scope.rows = $scope.red;
 		}
 	};
 
@@ -179,6 +185,172 @@ app.controller('ColorCtrl', function($scope) {
 		{
 			name: 'Shortbread',
 			value: '#FBE790'
+		}]
+	];
+
+	$scope.yellow = [
+		[{
+			name: 'Yellow',
+			value: '#FDE64B'
+		},
+		{
+			name: 'Canary',
+			value: '#F9C802'
+		},
+		{
+			name: 'Gold',
+			value: '#F9A602'
+		},
+		{
+			name: 'Daffodil',
+			value: '#FDEE87'
+		}],
+		[{
+			name: 'Flaxen',
+			value: '#D6B75A'
+		},
+		{
+			name: 'Butter',
+			value: '#FEE227'
+		},
+		{
+			name: 'Lemon',
+			value: '#EFFD5F'
+		},
+		{
+			name: 'Mustard',
+			value: '#E8B828'
+		}],
+		[{
+			name: 'Corn',
+			value: '#E4CD05'
+		},
+		{
+			name: 'Medallion',
+			value: '#E3B104'
+		},
+		{
+			name: 'Dandelion',
+			value: '#FDCE2A'
+		},
+		{
+			name: 'Fire',
+			value: '#FDA50F'
+		}],
+		[{
+			name: 'Bumblebee',
+			value: '#FCE205'
+		},
+		{
+			name: 'Banana',
+			value: '#FCF4A3'
+		},
+		{
+			name: 'Butterscotch',
+			value: '#FABD02'
+		},
+		{
+			name: 'Dijon',
+			value: '#C29200'
+		}],
+		[{
+			name: 'Honey',
+			value: '#FFC30B'
+		},
+		{
+			name: 'Blonde',
+			value: '#FEEB75'
+		},
+		{
+			name: 'Pineapple',
+			value: '#FEE227'
+		},
+		{
+			name: 'Tuscan sun',
+			value: '#FCD12A'
+		}]
+	];
+
+	$scope.red = [
+		[{
+			name: 'Red',
+			value: '#D0312D'
+		},
+		{
+			name: 'Cherry',
+			value: '#990F02'
+		},
+		{
+			name: 'Rose',
+			value: '#E2252B'
+		},
+		{
+			name: 'Jam',
+			value: '#600F0B'
+		}],
+		[{
+			name: 'Merlot',
+			value: '#541F1B'
+		},
+		{
+			name: 'Garnet',
+			value: '#600B04'
+		},
+		{
+			name: 'Crimson',
+			value: '#B80F0A'
+		},
+		{
+			name: 'Ruby',
+			value: '#900603'
+		}],
+		[{
+			name: 'Scarlet',
+			value: '#910D09'
+		},
+		{
+			name: 'Wine',
+			value: '#4C0805'
+		},
+		{
+			name: 'Brick',
+			value: '#7E2811'
+		},
+		{
+			name: 'Apple',
+			value: '#A91B0D'
+		}],
+		[{
+			name: 'Mahogany',
+			value: '#420D09'
+		},
+		{
+			name: 'Blood',
+			value: '#710C04'
+		},
+		{
+			name: 'Sangria',
+			value: '#5E1914'
+		},
+		{
+			name: 'Berry',
+			value: '#791812'
+		}],
+		[{
+			name: 'Currant',
+			value: '#670C07'
+		},
+		{
+			name: 'Blush',
+			value: '#BC5449'
+		},
+		{
+			name: 'Candy',
+			value: '#D21502'
+		},
+		{
+			name: 'Lipstick',
+			value: '#9C1003'
 		}]
 	];
 
