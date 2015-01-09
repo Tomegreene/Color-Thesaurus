@@ -5,7 +5,9 @@ app.controller('ColorCtrl', function($scope) {
 		{ name:'White', textColor:'#000000' },
 		{ name:'Tan', textColor:'#000000' },
 		{ name:'Yellow', textColor:'#000000' },
-		{ name: 'Red', textColor:'#000000' }
+		{ name:'Orange', textColor:'#000000' },
+		{ name: 'Red', textColor:'#000000' },
+		{ name: 'Pink', textColor:'#000000' }
 	];
 
 	$scope.currentColor = $scope.colors[0];
@@ -17,8 +19,12 @@ app.controller('ColorCtrl', function($scope) {
 			$scope.rows = $scope.tan;
 		} else if($scope.currentColor.name === 'Yellow'){
 			$scope.rows = $scope.yellow;
-		} else {
+		} else if($scope.currentColor.name === 'Orange'){
+			$scope.rows = $scope.orange;
+		} else if($scope.currentColor.name === 'Red') {
 			$scope.rows = $scope.red;
+		} else {
+			$scope.rows = $scope.pink;
 		}
 	};
 
@@ -271,6 +277,89 @@ app.controller('ColorCtrl', function($scope) {
 		}]
 	];
 
+	$scope.orange = [
+		[{
+			name: 'Orange',
+			value: '#ED7014'
+		},
+		{
+			name: 'Tangerine',
+			value: '#F98228'
+		},
+		{
+			name: 'Marigold',
+			value: '#FDAE1D'
+		},
+		{
+			name: 'Cider',
+			value: '#B56727'
+		}],
+		[{
+			name: 'Rust',
+			value: '#8C4004'
+		},
+		{
+			name: 'Ginger',
+			value: '#BC5602'
+		},
+		{
+			name: 'Tiger',
+			value: '#FC6B02'
+		},
+		{
+			name: 'Fire',
+			value: '#DD561C'
+		}],
+		[{
+			name: 'Bronze',
+			value: '#B2560D'
+		},
+		{
+			name: 'Cantaloupe',
+			value: '#FCA172'
+		},
+		{
+			name: 'Apricot',
+			value: '#ED820E'
+		},
+		{
+			name: 'Clay',
+			value: '#7F400B'
+		}],
+		[{
+			name: 'Honey',
+			value: '#EC9706'
+		},
+		{
+			name: 'Carrot',
+			value: '#ED7117'
+		},
+		{
+			name: 'Squash',
+			value: '#C95C0A'
+		},
+		{
+			name: 'Spice',
+			value: '#7A3903'
+		}],
+		[{
+			name: 'Marmalade',
+			value: '#D16002'
+		},
+		{
+			name: 'Amber',
+			value: '#893101'
+		},
+		{
+			name: 'Sandstone',
+			value: '#D67129'
+		},
+		{
+			name: 'Yam',
+			value: '#CC5801'
+		}]
+	];
+
 	$scope.red = [
 		[{
 			name: 'Red',
@@ -351,6 +440,89 @@ app.controller('ColorCtrl', function($scope) {
 		{
 			name: 'Lipstick',
 			value: '#9C1003'
+		}]
+	];
+
+	$scope.pink = [
+		[{
+			name: 'Pink',
+			value: '#F69ACD'
+		},
+		{
+			name: 'Rose',
+			value: '#FC94AD'
+		},
+		{
+			name: 'Fushcia',
+			value: '#FC46AA'
+		},
+		{
+			name: 'Punch',
+			value: '#F15278'
+		}],
+		[{
+			name: 'Blush',
+			value: '#FEC5E5'
+		},
+		{
+			name: 'Watermelon',
+			value: '#FE7F9C'
+		},
+		{
+			name: 'Flamingo',
+			value: '#FDA4B8'
+		},
+		{
+			name: 'Rouge',
+			value: '#F26B8B'
+		}],
+		[{
+			name: 'Salmon',
+			value: '#FDAB9F'
+		},
+		{
+			name: 'Coral',
+			value: '#FE7D68'
+		},
+		{
+			name: 'Peach',
+			value: '#FB9483'
+		},
+		{
+			name: 'Strawberry',
+			value: '#FC4C4E'
+		}],
+		[{
+			name: 'Rosewood',
+			value: '#A04242'
+		},
+		{
+			name: 'Lemonade',
+			value: '#FBBBCB'
+		},
+		{
+			name: 'Taffy',
+			value: '#FA86C5'
+		},
+		{
+			name: 'Bubblegum',
+			value: '#FD5CA8'
+		}],
+		[{
+			name: 'Ballet slipper',
+			value: '#F69ABF'
+		},
+		{
+			name: 'Crepe',
+			value: '#F2B8C6'
+		},
+		{
+			name: 'Magenta',
+			value: '#E11584'
+		},
+		{
+			name: 'Hot pink',
+			value: '#FF1695'
 		}]
 	];
 
