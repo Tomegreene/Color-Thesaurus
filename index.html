@@ -9,9 +9,8 @@
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
     <title>Color-thesaurus</title><html>
-	<link rel="stylesheet" href="style.css">
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.4/angular.min.js"></script>
-	<script type="text/javascript" src="js/colorThesaurus.js"></script>
+	<script type="text/javascript" src="javascript/colorThesaurus.js"></script>
   </head>
   <body ng-app="app" ng-controller="ColorCtrl as color">
 	<select ng-model="currentColor" ng-options="color.name for color in colors" ng-change="updateColors()"></select>
