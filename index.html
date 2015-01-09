@@ -10,7 +10,7 @@
 
     <title>Color-thesaurus</title><html>
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.4/angular.min.js"></script>
-	<script type="text/javascript" src="javascript/colorThesaurus.js"></script>
+	<script type="text/javascript" src="javascripts/colorThesaurus.js"></script>
   </head>
   <body ng-app="app" ng-controller="ColorCtrl as color">
 	<select ng-model="currentColor" ng-options="color.name for color in colors" ng-change="updateColors()"></select>
