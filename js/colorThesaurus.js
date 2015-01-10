@@ -1,6 +1,6 @@
 var app = angular.module('app',[]);
 
-app.controller('ColorCtrl', function($scope) {
+app.controller('ColorCtrl', function($scope, $http) {
 	$scope.colors = [
 		{ name:'White', textColor:'#000000' },
 		{ name:'Tan', textColor:'#000000' },
@@ -28,7 +28,11 @@ app.controller('ColorCtrl', function($scope) {
 		}
 	};
 
-	$scope.white = [
+	$http.get('data/white.json').success (function(data){
+		$scope.white = data;
+	});
+
+	/*$scope.white = [
 		[{
 			name: 'White',
 			value: '#FFFEFC'
@@ -109,7 +113,7 @@ app.controller('ColorCtrl', function($scope) {
 			name: 'Rice',
 			value: '#FAF5EF'
 		}]
-	];
+	];*/
 
 	$scope.tan = [
 		[{
