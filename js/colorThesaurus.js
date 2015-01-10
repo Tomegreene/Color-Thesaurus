@@ -38,6 +38,8 @@ app.controller('ColorCtrl', function($scope, colors) {
 
 	colors.then(function(data) {
 		$scope.white = data;
+		//$scope.updateColors();
+		$scope.rows = $scope.white;
 	});
 
 	/*$scope.white = [
@@ -537,6 +539,4 @@ app.controller('ColorCtrl', function($scope, colors) {
 			value: '#FF1695'
 		}]
 	];
-
-	$scope.rows = $scope.white;
 });
