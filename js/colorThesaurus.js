@@ -1,8 +1,8 @@
 var app = angular.module('app',[]);
 
 app.service('colors', function($http) {
-	var promise = $http.get('data/white.json').success (function(data){
-			$scope.white = data;
+	var promise = $http.get('data/white.json').success(function(data){
+		return data;
 	});
 
 	return promise;
