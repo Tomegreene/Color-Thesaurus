@@ -1,6 +1,14 @@
 var app = angular.module('app',[]);
 
-app.controller('ColorCtrl', function($scope, $http) {
+app.service('colors', function($http) {
+	var promise = $http.get('data/white.json').success (function(data){
+			$scope.white = data;
+	});
+
+	return promise;
+});
+
+app.controller('ColorCtrl', function($scope, colors) {
 	$scope.colors = [
 		{ name:'White', textColor:'#000000' },
 		{ name:'Tan', textColor:'#000000' },
@@ -28,7 +36,7 @@ app.controller('ColorCtrl', function($scope, $http) {
 		}
 	};
 
-	$http.get('data/white.json').success (function(data){
+	colors.then(function(data) {
 		$scope.white = data;
 	});
 
