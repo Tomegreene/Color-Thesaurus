@@ -2,91 +2,91 @@
     [
         {
             "name": "Brown",
-            "value": "#ED7014"
+            "value": "#231709"
         },
         {
             "name": "Coffee",
-            "value": "#F98228"
+            "value": "#4B371C"
         },
         {
             "name": "Mocha",
-            "value": "#FDAE1D"
+            "value": "#3C280D"
         },
         {
             "name": "Peanut",
-            "value": "#B56727"
+            "value": "#795C34"
         }
     ],
     [
         {
             "name": "Carob",
-            "value": "#8C4004"
+            "value": "#36260F"
         },
         {
             "name": "Hickory",
-            "value": "#BC5602"
+            "value": "#371D10"
         },
         {
             "name": "Wood",
-            "value": "#FC6B02"
+            "value": "#3F301D"
         },
         {
             "name": "Pecan",
-            "value": "#DD561C"
+            "value": "#4A2512"
         }
     ],
     [
         {
             "name": "Walnut",
-            "value": "#B2560D"
+            "value": "#432711"
         },
         {
             "name": "Caramel",
-            "value": "#FCA172"
+            "value": "#65350F"
         },
         {
             "name": "Gingerbread",
-            "value": "#ED820E"
+            "value": "#5D2C04"
         },
         {
             "name": "Syrup",
-            "value": "#7F400B"
+            "value": "#472001"
         }
     ],
     [
         {
             "name": "Chocolate",
-            "value": "#EC9706"
+            "value": "#2C1503"
         },
         {
             "name": "Tortilla",
-            "value": "#ED7117"
+            "value": "#9A7B4F"
         },
         {
             "name": "Umber",
-            "value": "#C95C0A"
+            "value": "#352315"
         },
         {
             "name": "Tawny",
-            "value": "#7A3903"
+            "value": "#7E481C"
         }
     ],
     [
         {
             "name": "Brunette",
-            "value": "#D16002"
+            "value": "#3A1E08"
         },
         {
             "name": "Cinnamon",
-            "value": "#893101"
+            "value": "#632A0D"
         },
         {
             "name": "Penny",
-            "value": "#D67129"
+            "value": "#522915"
         },
         {
             "name": "Cedar",
-            "value": "#CC5801"
+            "value": "#4A3728"
         }
     ]
 ]
