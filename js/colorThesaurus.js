@@ -14,8 +14,18 @@ app.controller('ColorCtrl', function($scope, $http) {
 			$scope.rows = $scope.red;
 		} else if($scope.currentColor.name === 'Pink') {
 			$scope.rows = $scope.pink;
-		} else {
+		} else if($scope.currentColor.name === 'Purple') {
 			$scope.rows = $scope.purple;
+		} else if($scope.currentColor.name === 'Blue') {
+			$scope.rows = $scope.blue;
+		} else if($scope.currentColor.name === 'Green') {
+			$scope.rows = $scope.green;
+		} else if($scope.currentColor.name === 'Brown') {
+			$scope.rows = $scope.brown;
+		} else if($scope.currentColor.name === 'Grey') {
+			$scope.rows = $scope.grey;
+		} else {
+			$scope.rows = $scope.black;
 		}
 	};
 
@@ -27,7 +37,12 @@ app.controller('ColorCtrl', function($scope, $http) {
 			{ name:'Orange', textColor:'#000000' },
 			{ name: 'Red', textColor:'#FFFFFF' },
 			{ name: 'Pink', textColor:'#000000' },
-			{ name: 'Purple', textColor:'#FFFFFF' }
+			{ name: 'Purple', textColor:'#FFFFFF' },
+			{ name: 'Blue', textColor:'#FFFFFF' },
+			{ name: 'Green', textColor:'#000000' },
+			{ name: 'Brown', textColor:'#FFFFFF' },
+			{ name: 'Grey', textColor:'#FFFFFF' },
+			{ name: 'Black', textColor:'#FFFFFF' }
 		];
 
 		$scope.currentColor = $scope.colors[0];
@@ -58,6 +73,26 @@ app.controller('ColorCtrl', function($scope, $http) {
 		});
 
 		$http.get('data/purple.json').success(function(data) {
+			$scope.purple = data;
+		});
+
+		$http.get('data/blue.json').success(function(data) {
+			$scope.blue = data;
+		});
+
+		$http.get('data/green.json').success(function(data) {
+			$scope.purple = data;
+		});
+
+		$http.get('data/brown.json').success(function(data) {
+			$scope.purple = data;
+		});
+
+		$http.get('data/grey.json').success(function(data) {
+			$scope.purple = data;
+		});
+
+		$http.get('data/black.json').success(function(data) {
 			$scope.purple = data;
 		});
 	}
