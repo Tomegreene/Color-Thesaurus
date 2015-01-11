@@ -2,91 +2,91 @@
     [
         {
             "name": "Green",
-            "value": "#ED7014"
+            "value": "#3BB143"
         },
         {
             "name": "Chartreuse",
-            "value": "#F98228"
+            "value": "#B0FC38"
         },
         {
             "name": "Juniper",
-            "value": "#FDAE1D"
+            "value": "#3A5311"
         },
         {
             "name": "Sage",
-            "value": "#B56727"
+            "value": "#728C69"
         }
     ],
     [
         {
             "name": "Lime",
-            "value": "#8C4004"
+            "value": "#AEF35A"
         },
         {
             "name": "Fern",
-            "value": "#BC5602"
+            "value": "#5CBC63"
         },
         {
             "name": "Olive",
-            "value": "#FC6B02"
+            "value": "#98BF64"
         },
         {
             "name": "Emerald",
-            "value": "#DD561C"
+            "value": "#028910"
         }
     ],
     [
         {
             "name": "Pear",
-            "value": "#B2560D"
+            "value": "#74B62E"
         },
         {
             "name": "Moss",
-            "value": "#FCA172"
+            "value": "#466D1E"
         },
         {
             "name": "Shamrock",
-            "value": "#ED820E"
+            "value": "#03AC13"
         },
         {
             "name": "Seafoam",
-            "value": "#7F400B"
+            "value": "#3CEC97"
         }
     ],
     [
         {
             "name": "Pine",
-            "value": "#EC9706"
+            "value": "#234F1E"
         },
         {
             "name": "Parakeet",
-            "value": "#ED7117"
+            "value": "#03C04A"
         },
         {
             "name": "Mint",
-            "value": "#C95C0A"
+            "value": "#98EDC3"
         },
         {
             "name": "Seaweed",
-            "value": "#7A3903"
+            "value": "#354A21"
         }
     ],
     [
         {
             "name": "Pickle",
-            "value": "#D16002"
+            "value": "#597D35"
         },
         {
             "name": "Pistachio",
-            "value": "#893101"
+            "value": "#B2D3C2"
         },
         {
             "name": "Basil",
-            "value": "#D67129"
+            "value": "#32612D"
         },
         {
             "name": "Crocodile",
-            "value": "#CC5801"
+            "value": "#607D3B"
         }
     ]
 ]
