@@ -2,91 +2,91 @@
     [
         {
             "name": "Black",
-            "value": "#ED7014"
+            "value": "#000000"
         },
         {
             "name": "Ebony",
-            "value": "#F98228"
+            "value": "#080401"
         },
         {
             "name": "Crow",
-            "value": "#FDAE1D"
+            "value": "#130906"
         },
         {
             "name": "Charcoal",
-            "value": "#B56727"
+            "value": "#28231D"
         }
     ],
     [
         {
             "name": "Midnight",
-            "value": "#8C4004"
+            "value": "#000004"
         },
         {
             "name": "Ink",
-            "value": "#BC5602"
+            "value": "#000000"
         },
         {
             "name": "Raven",
-            "value": "#FC6B02"
+            "value": "#040301"
         },
         {
             "name": "Oil",
-            "value": "#DD561C"
+            "value": "#050100"
         }
     ],
     [
         {
             "name": "Grease",
-            "value": "#B2560D"
+            "value": "#090806"
         },
         {
             "name": "Onyx",
-            "value": "#FCA172"
+            "value": "#030106"
         },
         {
             "name": "Pitch",
-            "value": "#ED820E"
+            "value": "#020001"
         },
         {
             "name": "Soot",
-            "value": "#7F400B"
+            "value": "#150E06"
         }
     ],
     [
         {
             "name": "Sable",
-            "value": "#EC9706"
+            "value": "#030200"
         },
         {
             "name": "Jet black",
-            "value": "#ED7117"
+            "value": "#000000"
         },
         {
             "name": "Coal",
-            "value": "#C95C0A"
+            "value": "#111008"
         },
         {
             "name": "Metal",
-            "value": "#7A3903"
+            "value": "#131210"
         }
     ],
     [
         {
             "name": "Obsidian",
-            "value": "#D16002"
+            "value": "#020403"
         },
         {
             "name": "Jade",
-            "value": "#893101"
+            "value": "#010302"
         },
         {
             "name": "Spider",
-            "value": "#D67129"
+            "value": "#030200"
         },
         {
             "name": "Leather",
-            "value": "#CC5801"
+            "value": "#110704"
         }
     ]
 ]
