@@ -1,91 +1,91 @@
 [
     [
         {
-            "name": "Orange",
+            "name": "Black",
             "value": "#ED7014"
         },
         {
-            "name": "Tangerine",
+            "name": "Ebony",
             "value": "#F98228"
         },
         {
-            "name": "Marigold",
+            "name": "Crow",
             "value": "#FDAE1D"
         },
         {
-            "name": "Cider",
+            "name": "Charcoal",
             "value": "#B56727"
         }
     ],
     [
         {
-            "name": "Rust",
+            "name": "Midnight",
             "value": "#8C4004"
         },
         {
-            "name": "Ginger",
+            "name": "Ink",
             "value": "#BC5602"
         },
         {
-            "name": "Tiger",
+            "name": "Raven",
             "value": "#FC6B02"
         },
         {
-            "name": "Fire",
+            "name": "Oil",
             "value": "#DD561C"
         }
     ],
     [
         {
-            "name": "Bronze",
+            "name": "Grease",
             "value": "#B2560D"
         },
         {
-            "name": "Cantaloupe",
+            "name": "Onyx",
             "value": "#FCA172"
         },
         {
-            "name": "Apricot",
+            "name": "Pitch",
             "value": "#ED820E"
         },
         {
-            "name": "Clay",
+            "name": "Soot",
             "value": "#7F400B"
         }
     ],
     [
         {
-            "name": "Honey",
+            "name": "Sable",
             "value": "#EC9706"
         },
         {
-            "name": "Carrot",
+            "name": "Jet black",
             "value": "#ED7117"
         },
         {
-            "name": "Squash",
+            "name": "Coal",
             "value": "#C95C0A"
         },
         {
-            "name": "Spice",
+            "name": "Metal",
             "value": "#7A3903"
         }
     ],
     [
         {
-            "name": "Marmalade",
+            "name": "Obsidian",
             "value": "#D16002"
         },
         {
-            "name": "Amber",
+            "name": "Jade",
             "value": "#893101"
         },
         {
-            "name": "Sandstone",
+            "name": "Spider",
             "value": "#D67129"
         },
         {
-            "name": "Yam",
+            "name": "Leather",
             "value": "#CC5801"
         }
     ]

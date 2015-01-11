@@ -1,91 +1,91 @@
 [
     [
         {
-            "name": "Orange",
+            "name": "Brown",
             "value": "#ED7014"
         },
         {
-            "name": "Tangerine",
+            "name": "Coffee",
             "value": "#F98228"
         },
         {
-            "name": "Marigold",
+            "name": "Mocha",
             "value": "#FDAE1D"
         },
         {
-            "name": "Cider",
+            "name": "Peanut",
             "value": "#B56727"
         }
     ],
     [
         {
-            "name": "Rust",
+            "name": "Carob",
             "value": "#8C4004"
         },
         {
-            "name": "Ginger",
+            "name": "Hickory",
             "value": "#BC5602"
         },
         {
-            "name": "Tiger",
+            "name": "Wood",
             "value": "#FC6B02"
         },
         {
-            "name": "Fire",
+            "name": "Pecan",
             "value": "#DD561C"
         }
     ],
     [
         {
-            "name": "Bronze",
+            "name": "Walnut",
             "value": "#B2560D"
         },
         {
-            "name": "Cantaloupe",
+            "name": "Caramel",
             "value": "#FCA172"
         },
         {
-            "name": "Apricot",
+            "name": "Gingerbread",
             "value": "#ED820E"
         },
         {
-            "name": "Clay",
+            "name": "Syrup",
             "value": "#7F400B"
         }
     ],
     [
         {
-            "name": "Honey",
+            "name": "Chocolate",
             "value": "#EC9706"
         },
         {
-            "name": "Carrot",
+            "name": "Tortilla",
             "value": "#ED7117"
         },
         {
-            "name": "Squash",
+            "name": "Umber",
             "value": "#C95C0A"
         },
         {
-            "name": "Spice",
+            "name": "Tawny",
             "value": "#7A3903"
         }
     ],
     [
         {
-            "name": "Marmalade",
+            "name": "Brunette",
             "value": "#D16002"
         },
         {
-            "name": "Amber",
+            "name": "Cinnamon",
             "value": "#893101"
         },
         {
-            "name": "Sandstone",
+            "name": "Penny",
             "value": "#D67129"
         },
         {
-            "name": "Yam",
+            "name": "Cedar",
             "value": "#CC5801"
         }
     ]

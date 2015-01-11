@@ -1,92 +1,92 @@
 [
     [
         {
-            "name": "Orange",
-            "value": "#ED7014"
+            "name": "Blue",
+            "value": "#3A43BA"
         },
         {
-            "name": "Tangerine",
-            "value": "#F98228"
+            "name": "Slate",
+            "value": "#757B87"
         },
         {
-            "name": "Marigold",
-            "value": "#FDAE1D"
+            "name": "Sky",
+            "value": "#62C5DA"
         },
         {
-            "name": "Cider",
-            "value": "#B56727"
+            "name": "Navy",
+            "value": "#0B1171"
         }
     ],
     [
         {
-            "name": "Rust",
-            "value": "#8C4004"
+            "name": "Indigo",
+            "value": "#281E5D"
         },
         {
-            "name": "Ginger",
-            "value": "#BC5602"
+            "name": "Cobalt",
+            "value": "#1338BD"
         },
         {
-            "name": "Tiger",
-            "value": "#FC6B02"
+            "name": "Teal",
+            "value": "#48AAAD"
         },
         {
-            "name": "Fire",
-            "value": "#DD561C"
+            "name": "Ocean",
+            "value": "#016064"
         }
     ],
     [
         {
-            "name": "Bronze",
-            "value": "#B2560D"
+            "name": "Peacock",
+            "value": "#012D36"
         },
         {
-            "name": "Cantaloupe",
-            "value": "#FCA172"
+            "name": "Azure",
+            "value": "#1620A6"
         },
         {
-            "name": "Apricot",
-            "value": "#ED820E"
+            "name": "Cerulean",
+            "value": "#0492C2"
         },
         {
-            "name": "Clay",
-            "value": "#7F400B"
+            "name": "Lapis",
+            "value": "#2732C2"
         }
     ],
     [
         {
-            "name": "Honey",
-            "value": "#EC9706"
+            "name": "Spruce",
+            "value": "#2C3E4C"
         },
         {
-            "name": "Carrot",
-            "value": "#ED7117"
+            "name": "Stone",
+            "value": "#59788D"
         },
         {
-            "name": "Squash",
-            "value": "#C95C0A"
+            "name": "Aegean",
+            "value": "#1E456E"
         },
         {
-            "name": "Spice",
-            "value": "#7A3903"
+            "name": "Berry",
+            "value": "#241570"
         }
     ],
     [
         {
-            "name": "Marmalade",
-            "value": "#D16002"
+            "name": "Denim",
+            "value": "#151E3D"
         },
         {
-            "name": "Amber",
-            "value": "#893101"
+            "name": "Admiral",
+            "value": "#061094"
         },
         {
-            "name": "Sandstone",
-            "value": "#D67129"
+            "name": "Sapphire",
+            "value": "#52B2C0"
         },
         {
-            "name": "Yam",
-            "value": "#CC5801"
+            "name": "Arctic",
+            "value": "#82EDFD"
         }
     ]
 ]

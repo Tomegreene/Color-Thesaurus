@@ -57,15 +57,15 @@ app.controller('ColorCtrl', function($scope, $http) {
 		});
 
 		$http.get('data/yellow.json').success(function(data) {
-				$scope.yellow = data;
+			$scope.yellow = data;
 		});
 
 		$http.get('data/orange.json').success(function(data) {
-				$scope.orange = data;
+			$scope.orange = data;
 		});
 
 		$http.get('data/red.json').success(function(data) {
-				$scope.red = data;
+			$scope.red = data;
 		});
 
 		$http.get('data/pink.json').success(function(data) {
