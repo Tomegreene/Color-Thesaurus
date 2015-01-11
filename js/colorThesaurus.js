@@ -81,19 +81,19 @@ app.controller('ColorCtrl', function($scope, $http) {
 		});
 
 		$http.get('data/green.json').success(function(data) {
-			$scope.purple = data;
+			$scope.green = data;
 		});
 
 		$http.get('data/brown.json').success(function(data) {
-			$scope.purple = data;
+			$scope.brown = data;
 		});
 
 		$http.get('data/grey.json').success(function(data) {
-			$scope.purple = data;
+			$scope.grey = data;
 		});
 
 		$http.get('data/black.json').success(function(data) {
-			$scope.purple = data;
+			$scope.black = data;
 		});
 	}
 
