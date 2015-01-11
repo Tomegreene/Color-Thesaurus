@@ -2,91 +2,91 @@
     [
         {
             "name": "Grey",
-            "value": "#ED7014"
+            "value": "#6C626D"
         },
         {
             "name": "Shadow",
-            "value": "#F98228"
+            "value": "#373737"
         },
         {
             "name": "Graphite",
-            "value": "#FDAE1D"
+            "value": "#584D5B"
         },
         {
             "name": "Iron",
-            "value": "#B56727"
+            "value": "#322D31"
         }
     ],
     [
         {
             "name": "Pewter",
-            "value": "#8C4004"
+            "value": "#6A6880"
         },
         {
             "name": "Cloud",
-            "value": "#BC5602"
+            "value": "#C6C6D0"
         },
         {
             "name": "Silver",
-            "value": "#FC6B02"
+            "value": "#ADADC7"
         },
         {
             "name": "Smoke",
-            "value": "#DD561C"
+            "value": "#59515E"
         }
     ],
     [
         {
             "name": "Slate",
-            "value": "#B2560D"
+            "value": "#3F3D53"
         },
         {
             "name": "Anchor",
-            "value": "#FCA172"
+            "value": "#42424C"
         },
         {
             "name": "Ash",
-            "value": "#ED820E"
+            "value": "#554C4D"
         },
         {
             "name": "Porpoise",
-            "value": "#7F400B"
+            "value": "#4D4C5C"
         }
     ],
     [
         {
             "name": "Dove",
-            "value": "#EC9706"
+            "value": "#7C6E7F"
         },
         {
             "name": "Fog",
-            "value": "#ED7117"
+            "value": "#655965"
         },
         {
             "name": "Flint",
-            "value": "#C95C0A"
+            "value": "#7E7D9C"
         },
         {
             "name": "Charcoal",
-            "value": "#7A3903"
+            "value": "#222023"
         }
     ],
     [
         {
             "name": "Pebble",
-            "value": "#D16002"
+            "value": "#333333"
         },
         {
             "name": "Lead",
-            "value": "#893101"
+            "value": "#403F4D"
         },
         {
             "name": "Coin",
-            "value": "#D67129"
+            "value": "#9897A9"
         },
         {
             "name": "Fossil",
-            "value": "#CC5801"
+            "value": "#787276"
         }
     ]
 ]
