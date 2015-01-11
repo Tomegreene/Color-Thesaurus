@@ -1,0 +1,92 @@
+[
+    [
+        {
+            "name": "Purple",
+            "value": "#A32CC4"
+        },
+        {
+            "name": "Mauve",
+            "value": "#7A4A88"
+        },
+        {
+            "name": "Violet",
+            "value": "#710193"
+        },
+        {
+            "name": "Boysenberry",
+            "value": "#620436"
+        }
+    ],
+    [
+        {
+            "name": "Lavender",
+            "value": "#E39FF6"
+        },
+        {
+            "name": "Plum",
+            "value": "#601A36"
+        },
+        {
+            "name": "Magenta",
+            "value": "#A10559"
+        },
+        {
+            "name": "Lilac",
+            "value": "#B660CD"
+        }
+    ],
+    [
+        {
+            "name": "Grape",
+            "value": "#663047"
+        },
+        {
+            "name": "Periwinkle",
+            "value": "#BD93D3"
+        },
+        {
+            "name": "Sangria",
+            "value": "#4D0F28"
+        },
+        {
+            "name": "Eggplant",
+            "value": "#311432"
+        }
+    ],
+    [
+        {
+            "name": "Jam",
+            "value": "#66042D"
+        },
+        {
+            "name": "Iris",
+            "value": "#9866C5"
+        },
+        {
+            "name": "Heather",
+            "value": "#9B7CB8"
+        },
+        {
+            "name": "Amethyst",
+            "value": "#A45EE5"
+        }
+    ],
+    [
+        {
+            "name": "Raisin",
+            "value": "#290916"
+        },
+        {
+            "name": "Orchid",
+            "value": "#AF69EE"
+        },
+        {
+            "name": "Mulberry",
+            "value": "#4C0120"
+        },
+        {
+            "name": "Wine",
+            "value": "#2C051A"
+        }
+    ]
+]
