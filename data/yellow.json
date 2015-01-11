@@ -1,0 +1,92 @@
+[
+    [
+        {
+            "name": "Yellow",
+            "value": "#FDE64B"
+        },
+        {
+            "name": "Canary",
+            "value": "#F9C802"
+        },
+        {
+            "name": "Gold",
+            "value": "#F9A602"
+        },
+        {
+            "name": "Daffodil",
+            "value": "#FDEE87"
+        }
+    ],
+    [
+        {
+            "name": "Flaxen",
+            "value": "#D6B75A"
+        },
+        {
+            "name": "Butter",
+            "value": "#FEE227"
+        },
+        {
+            "name": "Lemon",
+            "value": "#EFFD5F"
+        },
+        {
+            "name": "Mustard",
+            "value": "#E8B828"
+        }
+    ],
+    [
+        {
+            "name": "Corn",
+            "value": "#E4CD05"
+        },
+        {
+            "name": "Medallion",
+            "value": "#E3B104"
+        },
+        {
+            "name": "Dandelion",
+            "value": "#FDCE2A"
+        },
+        {
+            "name": "Fire",
+            "value": "#FDA50F"
+        }
+    ],
+    [
+        {
+            "name": "Bumblebee",
+            "value": "#FCE205"
+        },
+        {
+            "name": "Banana",
+            "value": "#FCF4A3"
+        },
+        {
+            "name": "Butterscotch",
+            "value": "#FABD02"
+        },
+        {
+            "name": "Dijon",
+            "value": "#C29200"
+        }
+    ],
+    [
+        {
+            "name": "Honey",
+            "value": "#FFC30B"
+        },
+        {
+            "name": "Blonde",
+            "value": "#FEEB75"
+        },
+        {
+            "name": "Pineapple",
+            "value": "#FEE227"
+        },
+        {
+            "name": "Tuscan sun",
+            "value": "#FCD12A"
+        }
+    ]
+]

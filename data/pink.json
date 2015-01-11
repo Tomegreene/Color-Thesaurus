@@ -1,0 +1,92 @@
+[
+    [
+        {
+            "name": "Pink",
+            "value": "#F69ACD"
+        },
+        {
+            "name": "Rose",
+            "value": "#FC94AD"
+        },
+        {
+            "name": "Fushcia",
+            "value": "#FC46AA"
+        },
+        {
+            "name": "Punch",
+            "value": "#F15278"
+        }
+    ],
+    [
+        {
+            "name": "Blush",
+            "value": "#FEC5E5"
+        },
+        {
+            "name": "Watermelon",
+            "value": "#FE7F9C"
+        },
+        {
+            "name": "Flamingo",
+            "value": "#FDA4B8"
+        },
+        {
+            "name": "Rouge",
+            "value": "#F26B8B"
+        }
+    ],
+    [
+        {
+            "name": "Salmon",
+            "value": "#FDAB9F"
+        },
+        {
+            "name": "Coral",
+            "value": "#FE7D68"
+        },
+        {
+            "name": "Peach",
+            "value": "#FB9483"
+        },
+        {
+            "name": "Strawberry",
+            "value": "#FC4C4E"
+        }
+    ],
+    [
+        {
+            "name": "Rosewood",
+            "value": "#A04242"
+        },
+        {
+            "name": "Lemonade",
+            "value": "#FBBBCB"
+        },
+        {
+            "name": "Taffy",
+            "value": "#FA86C5"
+        },
+        {
+            "name": "Bubblegum",
+            "value": "#FD5CA8"
+        }
+    ],
+    [
+        {
+            "name": "Ballet slipper",
+            "value": "#F69ABF"
+        },
+        {
+            "name": "Crepe",
+            "value": "#F2B8C6"
+        },
+        {
+            "name": "Magenta",
+            "value": "#E11584"
+        },
+        {
+            "name": "Hot pink",
+            "value": "#FF1695"
+        }
+    ]
+]

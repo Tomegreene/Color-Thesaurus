@@ -1,0 +1,92 @@
+[
+    [
+        {
+            "name": "Tan",
+            "value": "#E6DBAD"
+        },
+        {
+            "name": "Beige",
+            "value": "#ECDD9A"
+        },
+        {
+            "name": "Macaroon",
+            "value": "#F8E076"
+        },
+        {
+            "name": "Hazel wood",
+            "value": "#C9BB8E"
+        }
+    ],
+    [
+        {
+            "name": "Granola",
+            "value": "#D6B75A"
+        },
+        {
+            "name": "Oat",
+            "value": "#DEC98A"
+        },
+        {
+            "name": "Egg nog",
+            "value": "#FAE29A"
+        },
+        {
+            "name": "Fawn",
+            "value": "#C7A951"
+        }
+    ],
+    [
+        {
+            "name": "Sugar cookie",
+            "value": "#F3EBAD"
+        },
+        {
+            "name": "Sand",
+            "value": "#D7B963"
+        },
+        {
+            "name": "Sepia",
+            "value": "#E3B778"
+        },
+        {
+            "name": "Latte",
+            "value": "#DFC17B"
+        }
+    ],
+    [
+        {
+            "name": "Oyster",
+            "value": "#DCD7A0"
+        },
+        {
+            "name": "Biscotti",
+            "value": "#E3C565"
+        },
+        {
+            "name": "Parmesan",
+            "value": "#FDE992"
+        },
+        {
+            "name": "Hazelnut",
+            "value": "#BDA55D"
+        }
+    ],
+    [
+        {
+            "name": "Sandcastle",
+            "value": "#DAC27C"
+        },
+        {
+            "name": "Buttermilk",
+            "value": "#FDEFB2"
+        },
+        {
+            "name": "Sand dollar",
+            "value": "#ECE8B9"
+        },
+        {
+            "name": "Shortbread",
+            "value": "#FBE790"
+        }
+    ]
+]

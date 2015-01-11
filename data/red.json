@@ -1,0 +1,92 @@
+[
+    [
+        {
+            "name": "Red",
+            "value": "#D0312D"
+        },
+        {
+            "name": "Cherry",
+            "value": "#990F02"
+        },
+        {
+            "name": "Rose",
+            "value": "#E2252B"
+        },
+        {
+            "name": "Jam",
+            "value": "#600F0B"
+        }
+    ],
+    [
+        {
+            "name": "Merlot",
+            "value": "#541F1B"
+        },
+        {
+            "name": "Garnet",
+            "value": "#600B04"
+        },
+        {
+            "name": "Crimson",
+            "value": "#B80F0A"
+        },
+        {
+            "name": "Ruby",
+            "value": "#900603"
+        }
+    ],
+    [
+        {
+            "name": "Scarlet",
+            "value": "#910D09"
+        },
+        {
+            "name": "Wine",
+            "value": "#4C0805"
+        },
+        {
+            "name": "Brick",
+            "value": "#7E2811"
+        },
+        {
+            "name": "Apple",
+            "value": "#A91B0D"
+        }
+    ],
+    [
+        {
+            "name": "Mahogany",
+            "value": "#420D09"
+        },
+        {
+            "name": "Blood",
+            "value": "#710C04"
+        },
+        {
+            "name": "Sangria",
+            "value": "#5E1914"
+        },
+        {
+            "name": "Berry",
+            "value": "#791812"
+        }
+    ],
+    [
+        {
+            "name": "Currant",
+            "value": "#670C07"
+        },
+        {
+            "name": "Blush",
+            "value": "#BC5449"
+        },
+        {
+            "name": "Candy",
+            "value": "#D21502"
+        },
+        {
+            "name": "Lipstick",
+            "value": "#9C1003"
+        }
+    ]
+]
