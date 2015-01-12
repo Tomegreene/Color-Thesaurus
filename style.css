@@ -1,3 +1,7 @@
+select {
+    font-size: 20px;
+}
+
 table {
     border-collapse: collapse;
     border: 1px solid #CCB;
@@ -9,71 +13,6 @@ table tr {
 table td {
     font-size: 20px;
     padding: 25px;
-    border: 1px solid #b1b1b1;
+    border: 5px solid #b1b1b1;
 }
-<<<<<<< HEAD
 /* Doubles: white + porcelain, cotton + powder */
-=======
-
-/* Doubles: white + porcelain, cotton + powder */
-.white {
-    background: #FFFEFC;
-}
-.pearl {
-    background: #FBFCF7;
-}
-.alabaster {
-    background: #FEFAF1;
-}
-.snow {
-    background: #F5FEFD;
-}
-.ivory {
-    background: #FDF6E4;
-}
-.cream {
-    background: #FFFADA;
-}
-.eggshell {
-    background: #FEF9E3;
-}
-.cotton {
-    background: #FBFCF7;
-}
-.chiffon {
-    background: #FAFAF2;
-}
-.salt {
-    background: #F7EFEC;
-}
-.lace {
-    background: #FAF3EB;
-}
-.coconut {
-    background: #FFF1E6;
-}
-.linen {
-    background: #F2EAD3;
-}
-.bone {
-    background: #E7DFCC;
-}
-.daisy {
-    background: #FFFFFF;
-}
-.powder {
-    background: #FBFCF7;
-}
-.frost {
-    background: #ECFCFC;
-}
-.porcelain {
-    background: #FFFEFC;
-}
-.parchment {
-    background: #FBF5DF;
-}
-.rice {
-    background: #FAF5EF;
-}
->>>>>>> master
